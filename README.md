@@ -8,6 +8,7 @@ OCR (Optical Character Recognition) using an open-source library like Tesseract.
 Optionally, preprocess images (grayscale, contrast enhancement) for better recognition.
 Text-to-Speech (TTS)
 
+
 Use the built-in Web Speech API for speech synthesis.
 PWA Capabilities
 
