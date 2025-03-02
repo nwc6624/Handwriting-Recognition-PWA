@@ -9,6 +9,7 @@ Optionally, preprocess images (grayscale, contrast enhancement) for better recog
 Text-to-Speech (TTS)
 
 
+
 Use the built-in Web Speech API for speech synthesis.
 PWA Capabilities
 
