@@ -10,6 +10,7 @@ Text-to-Speech (TTS)
 
 
 
+
 Use the built-in Web Speech API for speech synthesis.
 PWA Capabilities
 
