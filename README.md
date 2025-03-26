@@ -9,6 +9,7 @@ Cursive Handwriting Recognition
 
 
 
+
 OCR (Optical Character Recognition) using an open-source library like Tesseract.js (browser-based, no API required)
 Optionally, preprocess images (grayscale, contrast enhancement) for better recognition.
 Text-to-Speech (TTS)
